@@ -8,7 +8,7 @@ spec:
   chart:
     spec:
       chart: nginx
-      version: "15.0.0"  # usa l’ultima versione stabile disponibile
+      version: "20.0.0"  # usa l’ultima versione stabile disponibile
       sourceRef:
         kind: HelmRepository
         name: bitnami
